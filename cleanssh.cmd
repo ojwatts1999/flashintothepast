@@ -1,6 +1,8 @@
 @echo off
 taskkill /f /im python.exe
 taskkill /f /im flashintothepast.exe
+taskkill /f /im flashintothepast_noassetdownload.exe
+taskkill /f /im flash.exe
 taskkill /f /im flash1.exe
 taskkill /f /im flash2.exe
 taskkill /f /im flash3.exe
@@ -13,4 +15,5 @@ taskkill /f /im flash9.exe
 taskkill /f /im flash10.exe
 taskkill /f /im flash11.exe
 taskkill /f /im flash12.exe
+taskkill /f /im flash13.exe
 taskkill /f /im tour.exe
